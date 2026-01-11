@@ -72,11 +72,12 @@ The project covers **data cleaning, exploratory data analysis, visualization, an
 - Votes and ratings show a positive correlation
 
 ---
-
+```
 ## 📁 Project Structure
 ├── Dataset.csv
 ├── Cognifyz_Data_Analysis.ipynb
 ├── README.md
+```
 
 ## 🏁 Conclusion
 This project strengthened my understanding of:
