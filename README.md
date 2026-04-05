@@ -94,7 +94,7 @@ It reflects a complete data analysis workflow followed in real-world projects.
 If you have any feedback or suggestions, feel free to connect.
 
 - **LinkedIn:** [https://www.linkedin.com/in/akhilesh-yadav88/]
-- **Portfolio:** [https://yaadavakhilesh.github.io/]
+- **Portfolio:** [https://akhileshyadav8.github.io/]
 - **Email:** yadavakhil766@gmail.com
 
 **Internship by:** Cognifyz Technologies  
